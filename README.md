@@ -75,13 +75,6 @@ Currently:
 
 </details>
 
-# 🚀 Featured Projects
-
-## 📱 Production-Ready Mobile Apps
-
-### 🧮 [Universal Calculator & Unit Converter](https://github.com/Ahmadali-dev375/Calculator-App)
-
-### ✅ [Habit Tracker — Routine & Goals](https://github.com/Ahmadali-dev375/Habit-App)
 ---
 
 ## 📅 Contributions
