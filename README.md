@@ -75,8 +75,6 @@ Currently:
 
 </details>
 
----
-
 ## 📅 Contributions
 
 <p align="center">
