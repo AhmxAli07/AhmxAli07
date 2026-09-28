@@ -2,7 +2,7 @@
 
 <img src="./assets/ahmad-profile.gif" width="100%" alt="Ahmad Ali — Flutter, Firebase and AI Automation Developer" />
 
-<h1>👋 Hi, I'm Ahmad Ali</h1>
+<h1>👋 Hi, I'm Ahmad</h1>
 
 <h3>Flutter Developer • AI Automation & AI Agents Developer • Web Designer</h3>
 
@@ -15,9 +15,10 @@ Name: Ahmad Ali
 Role: Full-Stack App Developer
 Experience: 3+ years
 Location: Faisalabad, Pakistan 🇵🇰
+Open_to: Remote Work
 Available_for: Freelancing
 
-🚀 specialties:
+🚀 Specialties:
   - Cross-platform Mobile Apps (Flutter / Dart)
   - Responsive Web Development
   - Firebase Backend & Cloud Services
@@ -25,6 +26,7 @@ Available_for: Freelancing
   - AI Automation Workflows
 
 Currently:
+
   🔭 building:
     • Flutter Applications
     • Responsive Websites
